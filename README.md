@@ -9,4 +9,4 @@ A prototype application for segmentation and counting of microparticles in FLIM 
     pip install -r requirements.txt
     
 ### Start App
-    python particle_counter_0.1.py
+    python src/particle_counter_0.1.py
